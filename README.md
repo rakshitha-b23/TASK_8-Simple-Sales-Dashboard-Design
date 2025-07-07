@@ -7,8 +7,6 @@ To create a basic interactive dashboard to visualize **sales performance by prod
 
 ## 🧰 Tools Used
 - **Power BI** – for dashboard creation and data visualization
-- **Python & Pandas** – used only if data cleaning was needed
-
 ---
 
 ## 📁 Dataset
